@@ -1,9 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,凤凰中文台1
-http://210.210.155.37/uq2663/h/h157/index2.m3u8
-#EXTINF:-1 ,凤凰中文台2
 https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-#EXTINF:-1 ,凤凰中文台3
+#EXTINF:-1 ,凤凰中文台2
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-#EXTINF:-1 ,凤凰中文台4
-http://210.210.155.37/qwr9ew/s/s21/index.m3u8
+
